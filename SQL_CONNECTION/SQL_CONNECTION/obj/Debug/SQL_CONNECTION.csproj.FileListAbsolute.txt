@@ -1,0 +1,11 @@
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\bin\Debug\SQL_CONNECTION.exe.config
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\bin\Debug\SQL_CONNECTION.exe
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\bin\Debug\SQL_CONNECTION.pdb
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.Sql_Connect.resources
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.Properties.Resources.resources
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.csproj.GenerateResource.cache
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.exe
+C:\Users\Togrul\source\repos\SQL_CONNECTION\SQL_CONNECTION\obj\Debug\SQL_CONNECTION.pdb
